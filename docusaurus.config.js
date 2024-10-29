@@ -79,8 +79,8 @@ const config = {
     ({
 
       algolia: {
-        appId: 'R2IYF7ETH7',
-        apiKey: '599cec31baffa4868cae4e79f180729b',
+        appId: 'KE3SYNCEAB',
+        apiKey: '2f07e7cbc31ba1cf9d548adcf3fd30a2',
         indexName: 'docsearch'
       },
 
