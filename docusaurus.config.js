@@ -6,6 +6,9 @@
 
 import { themes as prismThemes } from 'prism-react-renderer';
 
+const organizationName = "valuit-official";
+const projectName = "valuit-docs";
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Valuit',
@@ -13,15 +16,15 @@ const config = {
   favicon: 'img/favicon-150x150.png',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: `https://${organizationName}.github.io`,
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: `${organizationName}`, // Usually your GitHub org/user name.
+  projectName: `${projectName}`, // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -45,7 +48,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/product-valuit/valuit-doc/blob/main',
+          `https://github.com/${organizationName}/${projectName}/tree/main/`,
         },
         blog: {
           path: 'blog',
@@ -58,7 +61,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/product-valuit/valuit-doc',
+          `https://github.com/${organizationName}/${projectName}/tree/main/`,
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
