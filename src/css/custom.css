@@ -1,0 +1,271 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #6F2AE4;
+  --ifm-color-primary-dark: #6923e2;
+  --ifm-color-primary-darker: #6015e2;
+  --ifm-color-primary-darkest: #5d00ff;
+  --ifm-color-primary-light: #7a44f7;
+  --ifm-color-primary-lighter: #8253f1;
+  --ifm-color-primary-lightest: #986FF5;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+  --logo-top: 4px;
+  --logo-width: 65px;
+  --logo-height: 20px;
+  --logo-margin-right: 15px;
+  --navbar-border-color: #fff;
+
+  --footer-border-color: #f2f2f2;
+  --sidebar-divider-color: #f8f8f8;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #7a44f7;
+  --ifm-color-primary-dark: #6923e2;
+  --ifm-color-primary-darker: #6015e2;
+  --ifm-color-primary-darkest: #5d00ff;
+  --ifm-color-primary-light: #7a44f7;
+  --ifm-color-primary-lighter: #8253f1;
+  --ifm-color-primary-lightest: #986FF5;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-navbar-background-color: #0D031F;
+  --ifm-background-color: #0D031F !important;
+
+  --logo-top: -6px;
+  --logo-width: 80px;
+  --logo-height: 40px;
+  --logo-margin-right: 0px;
+  --navbar-border-color: #1d0f37;
+
+  --footer-border-color: #1d0f37;
+  --sidebar-divider-color: #1d0f37;
+}
+
+* {
+  font-family: "Poppins", serif !important;
+}
+
+li.theme-doc-sidebar-item-category.theme-doc-sidebar-item-category-level-1.menu__list-item {
+  margin-right: 8px;
+  margin-top: 10px;
+  padding-top: 8px;
+  border-top: 4px solid var(--sidebar-divider-color);
+}
+
+.navbar {
+  border-bottom: 1px solid var(--navbar-border-color) !important;
+}
+
+.navbar__logo img {
+  top: var(--logo-top);
+  position: relative;
+  margin-right: var(--logo-margin-right);
+  width: var(--logo-width) !important;
+  height: var(--logo-height) !important;
+}
+
+.divider {
+  width: 1.5px;
+  height: 25px;
+  background-color: #dedede;
+}
+
+.footer {
+  color: #FFFFFFAB;
+  background-image: linear-gradient(120deg, #323945 78%, #514A65 100%);
+  border-top: 1px solid var( --footer-border-color) !important;
+}
+
+.footer-first-row {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 15px;
+  margin-top: 55px;
+  text-align: left;
+  justify-content: space-between;
+}
+
+.first-title {
+  font-size: 10px;
+  font-weight: 600;
+  color: #ffffff78;
+}
+
+.second-title {
+  font-size: 9px;
+  font-weight: 600;
+  color: #808291c4;
+  font-family: "Poppins", serif !important;
+}
+
+.footer__title {
+  font-size: 10px;
+  font-weight: 600;
+  color: #ffffff78;
+}
+
+.footer__link-item {
+  font-size: 15px;
+  font-weight: 400;
+  color: #CBCBCB;
+}
+
+.footer__link-item:hover {
+  color: #fff;
+}
+
+.second-title-text {
+  font-size: 18px;
+  font-weight: 500;
+  color: #fff;
+}
+
+.mb-0{ 
+  margin-bottom: 0px;
+}
+
+.footer-second-row {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 60px;
+  justify-content: space-between;
+}
+
+.address-box {
+  min-height: 110px;
+  width: 32.5%;
+  padding: 10px;
+  text-align: left;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  border: 2px solid #787a8a;
+}
+
+.footer-address-title {
+  color: #ffffff78;
+  font-size: 13px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.footer-address-subtitle {
+  color: #737588;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 0px;
+}
+
+.footer-last-row {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-logo {
+  width: 80px;
+  height: 44px;
+}
+
+.social-img {
+  width: 22px;
+  height: 22px;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.gap-3 {
+  gap: 24px;
+}
+
+@media (max-width: 600px) {
+  .footer-second-row {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .address-box {
+    width: 100%;
+  }
+
+  .footer-last-row {
+    width: 100%;
+    gap: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: start;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .footer-logo {
+    width: 200px;
+    height: 100px;
+  }
+
+  .order-3 {
+    order: 3;
+  }
+}
+
+/* Cards */
+.card {
+  margin: 2em 0em;
+}
+
+.cards a[href^="http"]::after {
+  content: "";
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.card:hover {
+  -webkit-transform: translateY(-0.5em);
+  -moz-transform: translateY(-0.5em);
+  -o-transform: translateY(-0.5em);
+  -ms-transform: translateY(-0.5em);
+  transform: translateY(-0.5em);
+}
+
+.card__image {
+  overflow: hidden;
+  border: 0;
+  max-height: 168px;
+}
+
+.card__image img {
+  min-width: 100%;
+}
+
+.card__body h3 {
+  margin: 0em 0 0.3em 0 !important;
+  color: var(--ifm-font-color-base);
+}
+
+.card__body {
+  color: var(--ifm-font-color-base);
+}
+
