@@ -4,8 +4,8 @@
   <ShortName>Valuit</ShortName>
   <Description>Search Valuit</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://valuit-official.github.io/img/favicon-150x150.png</Image>
-  <Url type="text/html" method="get" template="https://valuit-official.github.io/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://valuit-official.github.io/opensearch.xml" />
-  <moz:SearchForm>https://valuit-official.github.io/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://docs.valuit.com/img/favicon-150x150.png</Image>
+  <Url type="text/html" method="get" template="https://docs.valuit.com/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.valuit.com/opensearch.xml" />
+  <moz:SearchForm>https://docs.valuit.com/</moz:SearchForm>
 </OpenSearchDescription>
