@@ -1,0 +1,27 @@
+{
+  "id": "Smart Contracts/The Basics/how-it-works",
+  "title": "How it Works?",
+  "description": "Smart contracts are one of the foundational technologies that power blockchain applications, providing a secure, automated, and trustless way to manage and enforce agreements without intermediaries. In this section, we’ll explore what smart contracts are, how they work, and their uses across various industries.",
+  "source": "@site/docs/Smart Contracts/The Basics/how-it-works.md",
+  "sourceDirName": "Smart Contracts/The Basics",
+  "slug": "/Smart Contracts/The Basics/how-it-works",
+  "permalink": "/Smart Contracts/The Basics/how-it-works",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/valuit-official/valuit-docs/tree/main/docs/Smart Contracts/The Basics/how-it-works.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Functionality",
+    "permalink": "/$VAL - Coming Soon/functionality"
+  },
+  "next": {
+    "title": "ERC-20",
+    "permalink": "/Smart Contracts/The Basics/erc-20"
+  }
+}

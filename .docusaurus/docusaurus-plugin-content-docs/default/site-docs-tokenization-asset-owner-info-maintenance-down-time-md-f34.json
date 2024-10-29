@@ -1,0 +1,27 @@
+{
+  "id": "Tokenization/Asset Owner Info/maintenance-down-time",
+  "title": "Maintenance & Down Time",
+  "description": "Platform Updates",
+  "source": "@site/docs/Tokenization/Asset Owner Info/maintenance-down-time.md",
+  "sourceDirName": "Tokenization/Asset Owner Info",
+  "slug": "/Tokenization/Asset Owner Info/maintenance-down-time",
+  "permalink": "/Tokenization/Asset Owner Info/maintenance-down-time",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/valuit-official/valuit-docs/tree/main/docs/Tokenization/Asset Owner Info/maintenance-down-time.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Secondary Markets",
+    "permalink": "/Tokenization/Asset Owner Info/secondary-markets"
+  },
+  "next": {
+    "title": "Third-Party Integrations",
+    "permalink": "/Tokenization/Asset Owner Info/third-party-integrations"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Tokenization/Asset Owner Info/technical-asset-requirements",
+  "title": "Technical Asset Requirements",
+  "description": "Offering Creation Options",
+  "source": "@site/docs/Tokenization/Asset Owner Info/technical-asset-requirements.md",
+  "sourceDirName": "Tokenization/Asset Owner Info",
+  "slug": "/Tokenization/Asset Owner Info/technical-asset-requirements",
+  "permalink": "/Tokenization/Asset Owner Info/technical-asset-requirements",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/valuit-official/valuit-docs/tree/main/docs/Tokenization/Asset Owner Info/technical-asset-requirements.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Commercial Asset Requirements",
+    "permalink": "/Tokenization/Asset Owner Info/commercial-asset-onboarding"
+  },
+  "next": {
+    "title": "Asset Tokenomics",
+    "permalink": "/Tokenization/Asset Owner Info/asset-tokenomics"
+  }
+}

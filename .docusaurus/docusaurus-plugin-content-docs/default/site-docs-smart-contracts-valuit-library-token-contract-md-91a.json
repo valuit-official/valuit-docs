@@ -1,0 +1,27 @@
+{
+  "id": "Smart Contracts/Valuit Library/token-contract",
+  "title": "Token Contract",
+  "description": "Contract Functions:",
+  "source": "@site/docs/Smart Contracts/Valuit Library/token-contract.md",
+  "sourceDirName": "Smart Contracts/Valuit Library",
+  "slug": "/Smart Contracts/Valuit Library/token-contract",
+  "permalink": "/Smart Contracts/Valuit Library/token-contract",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/valuit-official/valuit-docs/tree/main/docs/Smart Contracts/Valuit Library/token-contract.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Token Factory Contract",
+    "permalink": "/Smart Contracts/Valuit Library/token-factory-contract"
+  },
+  "next": {
+    "title": "Identity Registry Contract",
+    "permalink": "/Smart Contracts/Valuit Library/identity-register-contract"
+  }
+}

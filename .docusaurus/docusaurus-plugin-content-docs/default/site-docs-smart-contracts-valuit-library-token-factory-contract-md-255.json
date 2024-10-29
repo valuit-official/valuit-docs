@@ -1,0 +1,27 @@
+{
+  "id": "Smart Contracts/Valuit Library/token-factory-contract",
+  "title": "Token Factory Contract",
+  "description": "Contract Functions:",
+  "source": "@site/docs/Smart Contracts/Valuit Library/token-factory-contract.md",
+  "sourceDirName": "Smart Contracts/Valuit Library",
+  "slug": "/Smart Contracts/Valuit Library/token-factory-contract",
+  "permalink": "/Smart Contracts/Valuit Library/token-factory-contract",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/valuit-official/valuit-docs/tree/main/docs/Smart Contracts/Valuit Library/token-factory-contract.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "List of Contracts",
+    "permalink": "/Smart Contracts/Valuit Library/list-of-contracts"
+  },
+  "next": {
+    "title": "Token Contract",
+    "permalink": "/Smart Contracts/Valuit Library/token-contract"
+  }
+}

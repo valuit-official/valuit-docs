@@ -1,0 +1,27 @@
+{
+  "id": "Smart Contracts/The Basics/erc-3643",
+  "title": "ERC-3643",
+  "description": "The ERC-3643 standard introduces a unique approach to security tokens, which are digital assets that represent ownership in real-world assets like company shares, real estate, or commodities. ERC-3643 is designed to make security tokens regulatory-compliant, enabling these tokens to function securely in heavily regulated industries.",
+  "source": "@site/docs/Smart Contracts/The Basics/erc-3643.md",
+  "sourceDirName": "Smart Contracts/The Basics",
+  "slug": "/Smart Contracts/The Basics/erc-3643",
+  "permalink": "/Smart Contracts/The Basics/erc-3643",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/valuit-official/valuit-docs/tree/main/docs/Smart Contracts/The Basics/erc-3643.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ERC-20",
+    "permalink": "/Smart Contracts/The Basics/erc-20"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/Smart Contracts/Valuit Library/overview"
+  }
+}

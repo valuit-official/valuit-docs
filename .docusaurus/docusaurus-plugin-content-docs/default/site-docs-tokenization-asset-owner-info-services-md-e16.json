@@ -1,0 +1,27 @@
+{
+  "id": "Tokenization/Asset Owner Info/services",
+  "title": "Services",
+  "description": "Overview",
+  "source": "@site/docs/Tokenization/Asset Owner Info/services.md",
+  "sourceDirName": "Tokenization/Asset Owner Info",
+  "slug": "/Tokenization/Asset Owner Info/services",
+  "permalink": "/Tokenization/Asset Owner Info/services",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/valuit-official/valuit-docs/tree/main/docs/Tokenization/Asset Owner Info/services.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What is Valuit?",
+    "permalink": "/Tokenization/what-is-valuit"
+  },
+  "next": {
+    "title": "Problems & Solutions",
+    "permalink": "/Tokenization/Asset Owner Info/problems-and-solutions"
+  }
+}

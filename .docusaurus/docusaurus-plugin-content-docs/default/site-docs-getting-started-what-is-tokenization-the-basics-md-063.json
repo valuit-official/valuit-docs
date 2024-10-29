@@ -1,0 +1,27 @@
+{
+  "id": "Getting Started/What is Tokenization/the-basics",
+  "title": "The Basics",
+  "description": "Tokenization is the process of converting ownership rights of a real-world asset into a digital token on a blockchain. This means that a physical asset, such as property, art, or even shares in a company, can be represented by a digital token. These tokens can then be easily transferred, traded, or used across different platforms within the blockchain ecosystem, making asset management simpler, faster, and more efficient.",
+  "source": "@site/docs/Getting Started/What is Tokenization/the-basics.md",
+  "sourceDirName": "Getting Started/What is Tokenization",
+  "slug": "/Getting Started/What is Tokenization/the-basics",
+  "permalink": "/Getting Started/What is Tokenization/the-basics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/valuit-official/valuit-docs/tree/main/docs/Getting Started/What is Tokenization/the-basics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Navigating Our Docs",
+    "permalink": "/Getting Started/navigating-our-docs"
+  },
+  "next": {
+    "title": "Top Industries",
+    "permalink": "/Getting Started/What is Tokenization/top-industries"
+  }
+}

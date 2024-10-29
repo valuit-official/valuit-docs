@@ -1,0 +1,27 @@
+{
+  "id": "$VAL - Coming Soon/functionality",
+  "title": "Functionality",
+  "description": "$VAL token utilities",
+  "source": "@site/docs/$VAL - Coming Soon/functionality.md",
+  "sourceDirName": "$VAL - Coming Soon",
+  "slug": "/$VAL - Coming Soon/functionality",
+  "permalink": "/$VAL - Coming Soon/functionality",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/valuit-official/valuit-docs/tree/main/docs/$VAL - Coming Soon/functionality.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What is $VAL?",
+    "permalink": "/$VAL - Coming Soon/what-is-$val"
+  },
+  "next": {
+    "title": "How it Works?",
+    "permalink": "/Smart Contracts/The Basics/how-it-works"
+  }
+}

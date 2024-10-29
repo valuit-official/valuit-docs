@@ -1,0 +1,25 @@
+{
+  "id": "intro",
+  "title": "Welcome to Valuit",
+  "description": "Welcome to Valuit, your gateway to the future of digital asset tokenization and decentralized finance. Valuit enables you to transform tangible assets into digital tokens, opening new avenues for ownership, liquidity, and investment. Built on the Base chain, Valuit seamlessly combines user-friendly interfaces with robust blockchain technology, making it easy to create, manage, and trade tokenized assets. Whether you're an asset owner, investor, or developer, Valuit provides the tools and resources to thrive in the decentralized economy. Join us as we bridge traditional finance with the power of blockchain—welcome to the next era of asset management.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/valuit-official/valuit-docs/tree/main/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "sidebar_label": "Home",
+    "hide_table_of_contents": true
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Navigating Our Docs",
+    "permalink": "/Getting Started/navigating-our-docs"
+  }
+}

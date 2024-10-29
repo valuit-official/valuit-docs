@@ -1,0 +1,27 @@
+{
+  "id": "Tokenization/Asset Owner Info/asset-tokenomics",
+  "title": "Asset Tokenomics",
+  "description": "Fundamentals",
+  "source": "@site/docs/Tokenization/Asset Owner Info/asset-tokenomics.md",
+  "sourceDirName": "Tokenization/Asset Owner Info",
+  "slug": "/Tokenization/Asset Owner Info/asset-tokenomics",
+  "permalink": "/Tokenization/Asset Owner Info/asset-tokenomics",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/valuit-official/valuit-docs/tree/main/docs/Tokenization/Asset Owner Info/asset-tokenomics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Technical Asset Requirements",
+    "permalink": "/Tokenization/Asset Owner Info/technical-asset-requirements"
+  },
+  "next": {
+    "title": "Securtities Listing & Compliance",
+    "permalink": "/Tokenization/Asset Owner Info/securities-listing-compliance"
+  }
+}

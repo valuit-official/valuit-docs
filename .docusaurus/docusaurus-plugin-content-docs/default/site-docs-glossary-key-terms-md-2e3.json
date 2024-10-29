@@ -1,0 +1,27 @@
+{
+  "id": "Glossary/key-terms",
+  "title": "Key Terms",
+  "description": "1. Asset Token",
+  "source": "@site/docs/Glossary/key-terms.md",
+  "sourceDirName": "Glossary",
+  "slug": "/Glossary/key-terms",
+  "permalink": "/Glossary/key-terms",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/valuit-official/valuit-docs/tree/main/docs/Glossary/key-terms.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Identity Registry Contract",
+    "permalink": "/Smart Contracts/Valuit Library/identity-register-contract"
+  },
+  "next": {
+    "title": "Blockchain & Tokenization",
+    "permalink": "/Glossary/blockchain-and-tokenization"
+  }
+}

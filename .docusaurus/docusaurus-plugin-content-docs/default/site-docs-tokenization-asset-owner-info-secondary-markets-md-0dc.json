@@ -1,0 +1,27 @@
+{
+  "id": "Tokenization/Asset Owner Info/secondary-markets",
+  "title": "Secondary Markets",
+  "description": "Valuit collaborates with various secondary market platforms to provide a comprehensive trading ecosystem for tokenized assets. This collaboration ensures liquidity, accessibility, and regulatory compliance, instilling confidence in asset holders. Below, we detail how Valuit works with DeFi protocols, decentralized exchanges (DEX), and centralized exchanges (CEX) to expand our retail user base.",
+  "source": "@site/docs/Tokenization/Asset Owner Info/secondary-markets.md",
+  "sourceDirName": "Tokenization/Asset Owner Info",
+  "slug": "/Tokenization/Asset Owner Info/secondary-markets",
+  "permalink": "/Tokenization/Asset Owner Info/secondary-markets",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/valuit-official/valuit-docs/tree/main/docs/Tokenization/Asset Owner Info/secondary-markets.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Securtities Listing & Compliance",
+    "permalink": "/Tokenization/Asset Owner Info/securities-listing-compliance"
+  },
+  "next": {
+    "title": "Maintenance & Down Time",
+    "permalink": "/Tokenization/Asset Owner Info/maintenance-down-time"
+  }
+}

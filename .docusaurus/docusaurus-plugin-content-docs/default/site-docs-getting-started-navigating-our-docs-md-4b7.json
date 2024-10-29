@@ -1,0 +1,27 @@
+{
+  "id": "Getting Started/navigating-our-docs",
+  "title": "Navigating Our Docs",
+  "description": "Welcome to the Valuit Documentation! This section is designed to give you easy access to all the information you need to understand, operate, and get the most out of the Valuit ecosystem. Here’s a quick guide on how to navigate the docs, what each section offers, and a basic tutorial to help you get started.",
+  "source": "@site/docs/Getting Started/navigating-our-docs.md",
+  "sourceDirName": "Getting Started",
+  "slug": "/Getting Started/navigating-our-docs",
+  "permalink": "/Getting Started/navigating-our-docs",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/valuit-official/valuit-docs/tree/main/docs/Getting Started/navigating-our-docs.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Home",
+    "permalink": "/intro"
+  },
+  "next": {
+    "title": "The Basics",
+    "permalink": "/Getting Started/What is Tokenization/the-basics"
+  }
+}

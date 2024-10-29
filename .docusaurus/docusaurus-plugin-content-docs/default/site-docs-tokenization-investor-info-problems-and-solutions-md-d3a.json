@@ -1,0 +1,27 @@
+{
+  "id": "Tokenization/Investor Info/problems-and-solutions",
+  "title": "Problems & Solutions",
+  "description": "Valuit addresses several critical challenges faced by asset owners and investors in traditional asset management. Below, we outline these problem statements, and the corresponding benefits provided by Valuit’s solutions.",
+  "source": "@site/docs/Tokenization/Investor Info/problems-and-solutions.md",
+  "sourceDirName": "Tokenization/Investor Info",
+  "slug": "/Tokenization/Investor Info/problems-and-solutions",
+  "permalink": "/Tokenization/Investor Info/problems-and-solutions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/valuit-official/valuit-docs/tree/main/docs/Tokenization/Investor Info/problems-and-solutions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Services",
+    "permalink": "/Tokenization/Investor Info/services"
+  },
+  "next": {
+    "title": "Sourcing & Deal Flow",
+    "permalink": "/Tokenization/Investor Info/sourcing-deal-flow"
+  }
+}

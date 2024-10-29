@@ -1,0 +1,27 @@
+{
+  "id": "Tokenization/Asset Owner Info/problems-and-solutions",
+  "title": "Problems & Solutions",
+  "description": "Valuit addresses several critical challenges faced by asset owners and investors in traditional asset management. Below, we outline these problem statements and the corresponding benefits provided by Valuit’s solutions.",
+  "source": "@site/docs/Tokenization/Asset Owner Info/problems-and-solutions.md",
+  "sourceDirName": "Tokenization/Asset Owner Info",
+  "slug": "/Tokenization/Asset Owner Info/problems-and-solutions",
+  "permalink": "/Tokenization/Asset Owner Info/problems-and-solutions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/valuit-official/valuit-docs/tree/main/docs/Tokenization/Asset Owner Info/problems-and-solutions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Services",
+    "permalink": "/Tokenization/Asset Owner Info/services"
+  },
+  "next": {
+    "title": "Asset Onboarding",
+    "permalink": "/Tokenization/Asset Owner Info/asset-onboarding"
+  }
+}
