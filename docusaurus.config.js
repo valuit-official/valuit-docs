@@ -270,6 +270,15 @@ const config = {
           },
         ]
       },
+      plugins: [
+        [
+          '@docusaurus/plugin-sitemap',
+          {
+            changefreq: 'daily',
+            priority: 0.5,
+          },
+        ],
+      ]
     }),
 };
 
