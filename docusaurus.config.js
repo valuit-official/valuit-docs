@@ -84,8 +84,8 @@ const config = {
 
       algolia: {
         appId: 'KE3SYNCEAB',
-        apiKey: '2f07e7cbc31ba1cf9d548adcf3fd30a2',
-        indexName: 'docsearch'
+        apiKey: 'f5c8e4402c3ff7c1074617cf9270d0d6',
+        indexName: 'valuit-doc'
       },
 
       // Replace with your project's social card
