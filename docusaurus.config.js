@@ -85,7 +85,7 @@ const config = {
       algolia: {
         appId: 'KE3SYNCEAB',
         apiKey: 'f5c8e4402c3ff7c1074617cf9270d0d6',
-        indexName: 'valuit-doc'
+        indexName: 'valuit'
       },
 
       // Replace with your project's social card
@@ -117,20 +117,16 @@ const config = {
             items: [
               {
                 label: 'Github',
-                href: 'https://github.com/product-valuit/valuit-doc',
+                href: 'https://github.com/valuit-official',
               },
               {
-                label: 'Discord',
-                href: 'https://github.com/product-valuit/valuit-doc',
-              },
-              {
-                label: 'Telegram',
-                href: 'https://github.com/product-valuit/valuit-doc',
+                label: 'FAQs',
+                href: 'https://valuit.com/faqs/',
               },
             ]
           },
           {
-            href: 'https://github.com/product-valuit/valuit-doc',
+            href: 'https://github.com/valuit-official/valuit-docs',
             label: 'GitHub',
             position: 'right',
           }
