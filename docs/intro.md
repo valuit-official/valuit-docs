@@ -11,8 +11,6 @@ import {Container, Card} from "@site/src/components/cards";
 
 Welcome to Valuit, your gateway to the future of digital asset tokenization and decentralized finance. Valuit enables you to transform tangible assets into digital tokens, opening new avenues for ownership, liquidity, and investment. Built on the Base chain, Valuit seamlessly combines user-friendly interfaces with robust blockchain technology, making it easy to create, manage, and trade tokenized assets. Whether you're an asset owner, investor, or developer, Valuit provides the tools and resources to thrive in the decentralized economy. Join us as we bridge traditional finance with the power of blockchain—welcome to the next era of asset management.
 
-<iframe src="https://valuit.com/videos/valuit-intro.mp4" width="799" height="450" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-
 
 <Container>
     <Card img={require("@site/static/img/intro/getting started.png").default}
