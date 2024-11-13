@@ -93,7 +93,7 @@ const config = {
       navbar: {
         logo: {
           alt: 'valuit Logo',
-          src: 'img/logo_dark.png',
+          src: 'img/logo_light.svg',
           srcDark: 'img/logo_dark.png',
           href: 'https://valuit.com/',
           target: '_self',

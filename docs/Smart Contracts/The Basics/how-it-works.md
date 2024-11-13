@@ -8,12 +8,10 @@ Smart contracts are one of the foundational technologies that power blockchain a
 
 A **smart contract** is a self-executing digital contract where the terms and conditions of an agreement are directly written into code. When certain conditions are met, the contract automatically enforces these terms. Unlike traditional contracts, smart contracts do not require intermediaries, reducing costs, time, and potential for error.
 
-```jsx 
-💡
-
+:::note
 Smart contracts operate on blockchain networks, ensuring that once deployed, the contract cannot be altered. 
 This immutability provides transparency and trust between participants.
-```
+:::
 
 ### How Smart Contracts Work
 
@@ -41,12 +39,10 @@ Smart contracts bring several advantages over traditional contracts:
 - **Trustless Transactions**: Transactions are secure and verified by the blockchain, eliminating the need for third-party validation.
 - **Reduced Fraud**: The contract’s immutability and transparency minimize the risk of fraud, tampering, or disputes.
 
-```jsx 
-📘
-
+:::note
 In a simple loan contract, once a borrower deposits collateral, the smart contract can automatically release the loan funds.
 The process is trustless and does not require an intermediary, as the contract itself enforces the agreement.
-```
+:::
 
 
 ### Real-World Applications of Smart Contracts
@@ -59,12 +55,10 @@ Smart contracts have a wide range of applications across various sectors. Here a
 - **Healthcare**: Manages patient data and insurance claims securely, ensuring data privacy and automating claim approvals.
 - **Voting Systems**: Provides a secure, transparent, and tamper-proof method for voting, reducing fraud in electoral processes.
 
-```jsx 
-🔑
-
+:::note
 Smart contracts enable automated, secure, and reliable transactions across multiple industries, reducing dependency
 on intermediaries and enhancing transparency and trust.
-```
+:::
 
 ### How Smart Contracts Power Decentralized Applications (DApps)
 
@@ -74,12 +68,10 @@ Smart contracts are the backbone of **Decentralized Applications (DApps)**, all
 - **Gaming**: Blockchain games use smart contracts to create unique, tradable assets (NFTs), ensuring players own their in-game assets.
 - **Marketplaces**: Peer-to-peer marketplaces leverage smart contracts to create transparent, trustless environments for buyers and sellers.
 
-```jsx 
-⚡
-
+:::note
 As blockchain technology continues to evolve, smart contracts are expected to become integral to sectors that rely on 
 data integrity, automation, and secure digital interactions, ultimately reshaping how businesses and individuals interact.
-```
+:::
 
 ### Conclusion
 

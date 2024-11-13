@@ -21,12 +21,9 @@ Valuit offers a unique and comprehensive solution for tokenizing assets and mana
 
 Valuit offers an all-in-one solution for tokenizing assets, managing equity, and facilitating compliant transactions. By integrating every stage of the tokenization process—from asset verification to token creation and trading—Valuit streamlines complex processes, allowing clients to focus on maximizing the value of their assets.
 
-<aside>
-💡
-
+:::note
 Unlike platforms that require third-party integrations or external tools, Valuit provides a fully integrated solution, ensuring seamless compatibility and efficiency across the entire ecosystem.
-
-</aside>
+:::
 
 ### 2. Regulatory Compliance and Security
 
@@ -38,12 +35,9 @@ Valuit is built with compliance at its core, ensuring that all tokenized assets 
 - **GDPR Compliance**: Protects user data and ensures compliance with global data privacy standards.
 - **Institutional-Grade Security**: Regular audits and secure smart contracts maintain a safe environment for asset management.
 
-<aside>
-🔒
-
+:::note
 Valuit’s smart contracts are thoroughly audited to reduce risk and ensure transaction integrity, making it a trusted choice for tokenized securities.
-
-</aside>
+:::
 
 ### 3. Flexible and Scalable Tokenization
 
@@ -65,12 +59,9 @@ Valuit goes beyond simple tokenization by providing robust equity management too
 - **Real-Time Documentation**: All updates to asset ownership and documentation are reflected instantly, ensuring accurate record-keeping.
 - **Comprehensive Reporting**: Provides insights into asset performance, transaction history, and equity structure, empowering users with data-driven decision-making.
 
-<aside>
-📈
-
+:::note
 Valuit’s equity management system provides users with transparent and actionable insights, enhancing strategic asset management.
-
-</aside>
+:::
 
 ### 5. Interoperability and Ecosystem Integration
 
@@ -92,20 +83,14 @@ Valuit prioritizes user experience, providing an intuitive interface for asset o
 - **Comprehensive Documentation**: Accessible resources and tutorials to help users maximize platform capabilities.
 - **Dedicated Support**: A responsive customer support team to assist with questions, troubleshooting, and guidance.
 
-<aside>
-🛠
-
-**Support Feature:** Valuit’s customer support includes resources tailored for institutional clients, ensuring that asset managers and investors have the tools they need to succeed.
-
-</aside>
+:::note
+Support Feature: Valuit’s customer support includes resources tailored for institutional clients, ensuring that asset managers and investors have the tools they need to succeed.
+:::
 
 ## Summary
 
 Valuit combines a secure, regulatory-compliant framework with a user-friendly platform to offer an unmatched tokenization experience. With features tailored to the needs of both individual and institutional investors, Valuit stands out as a comprehensive, scalable, and future-ready solution for equity management. Whether you’re looking to tokenize a single asset or manage an extensive portfolio, Valuit’s advanced technology and dedicated support ensure you can achieve your investment goals with confidence and security.
 
-<aside>
-🎉
-
-**Join Valuit:** Discover how Valuit’s tokenization and equity management platform can transform your asset strategy today!
-
-</aside>
+:::note
+Join Valuit: Discover how Valuit’s tokenization and equity management platform can transform your asset strategy today!
+:::

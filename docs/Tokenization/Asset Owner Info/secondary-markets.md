@@ -20,10 +20,10 @@ Decentralized Finance (DeFi) protocols enable peer-to-peer trading and various f
 
 1. **Integration with Liquidity Pools:**
     - Valuit integrates with leading DeFi platforms to provide liquidity pools for tokenized assets.
-        - **Benefit:**This allows asset holders to earn yield by providing liquidity, enhancing the overall liquidity of the tokenized assets.
+        - **Benefit**: This allows asset holders to earn yield by providing liquidity, enhancing the overall liquidity of the tokenized assets.
 2. **Lending and Borrowing:**
     - Valuit enables asset holders to use their tokenized assets as collateral for loans through integration with decentralized lending and borrowing platforms.
-        - **Benefit:**Provides additional financial flexibility and opportunities for asset holders.
+        - **Benefit**: Provides additional financial flexibility and opportunities for asset holders.
 
 ## Decentralized Exchanges (DEX)
 
@@ -33,10 +33,10 @@ Decentralized exchanges facilitate direct trading of cryptocurrencies between us
 
 1. **Token Listing on DEX:**
     - Valuit lists tokenized assets on major DEX platforms to ensure broad accessibility.
-        - **Benefit:**Asset holders can trade their tokens directly on these platforms, enjoying the benefits of decentralized trading.
+        - **Benefit**: Asset holders can trade their tokens directly on these platforms, enjoying the benefits of decentralized trading.
 2. **Order Book and AMM Integration:**
     - Valuit works with DEX platforms that use both order book models and automated market makers (AMMs) to provide diverse trading options.
-        - **Benefit:**Asset holders can choose their preferred trading method, whether it's through order books or liquidity pools.
+        - **Benefit**: Asset holders can choose their preferred trading method, whether it's through order books or liquidity pools.
 
 ## Centralized Exchanges (CEX)
 
@@ -46,7 +46,7 @@ Centralized exchanges are platforms operated by centralized entities that facili
 
 1. **Token Listing on CEX:**
     - Valuit ensures the listing of tokenized assets on top CEX platforms to provide high liquidity and accessibility for retail and institutional investors.
-        - **Benefit:**High liquidity and accessibility for retail and institutional investors.
+        - **Benefit**: High liquidity and accessibility for retail and institutional investors.
 2. **Marketing and User Acquisition:**
     - Joint marketing campaigns with CEX platforms to promote tokenized assets and attract a broader user base.
-        - **Benefit:**Increased visibility and user acquisition for tokenized assets.
+        - **Benefit**: Increased visibility and user acquisition for tokenized assets.
