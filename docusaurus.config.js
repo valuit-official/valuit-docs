@@ -89,11 +89,11 @@ const config = {
       },
 
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/socials/logo_dark.png',
       navbar: {
         logo: {
           alt: 'valuit Logo',
-          src: 'img/logo_light.svg',
+          src: 'img/logo_dark.png',
           srcDark: 'img/logo_dark.png',
           href: 'https://valuit.com/',
           target: '_self',
