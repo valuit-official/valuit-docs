@@ -42,7 +42,6 @@ Welcome to Valuit, your gateway to the future of digital asset tokenization and 
           text="Learn about $VAL token"
           links={{
             "What is $VAL?": "/$VAL - Coming Soon/what-is-$val",
-            "Functionality": "/$VAL - Coming Soon/functionality",
           }}
     />
     <Card img={require("@site/static/img/intro/smart contract.png").default}
