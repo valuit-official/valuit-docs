@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 
 # Problems & Solutions
-Valuit addresses several critical challenges faced by asset owners and investors in traditional asset management. Below, we outline these problem statements and the corresponding benefits provided by Valuit’s solutions.
+BlockRidge addresses several critical challenges faced by asset owners and investors in traditional asset management. Below, we outline these problem statements and the corresponding benefits provided by BlockRidge’s solutions.
 
 ## Liquidity of Traditional Assets
 
@@ -23,7 +23,7 @@ Valuit addresses several critical challenges faced by asset owners and investors
 
 ## Lack of Transparency
 
-| **Traditional Asset Management** | **Valuit Tokenization** |
+| **Traditional Asset Management** | **BlockRidge Tokenization** |
 | --- | --- |
 | **Limited visibility into ownership and transactions.** | **Full transparency with blockchain ledger providing an immutable record of all transactions.** |
 | **Potential for fraud and errors.** | **Reduced risk of fraud and errors due to automated verification and recording.** |

@@ -3,11 +3,11 @@ sidebar_position: 2
 ---
 
 # Services
-Valuit offers a comprehensive suite of services designed to meet the needs of our partners, including family offices, venture capital firms, and private equity funds. Our services encompass the full spectrum of investment banking and asset management activities, enhanced by cutting-edge blockchain technology to ensure liquidity, transparency, and compliance.
+BlockRidge offers a comprehensive suite of services designed to meet the needs of our partners, including family offices, venture capital firms, and private equity funds. Our services encompass the full spectrum of investment banking and asset management activities, enhanced by cutting-edge blockchain technology to ensure liquidity, transparency, and compliance.
 
 ### 1. Tokenization of Assets
 
-Valuit specializes in the tokenization of a wide array of assets, including real estate, private equity, intellectual property, and more. This process involves converting physical and digital assets into blockchain-based tokens, which represent ownership. Tokenization simplifies transactions and provides greater access to investment opportunities by making these assets easily tradable on the blockchain.
+BlockRidge specializes in the tokenization of a wide array of assets, including real estate, private equity, intellectual property, and more. This process involves converting physical and digital assets into blockchain-based tokens, which represent ownership. Tokenization simplifies transactions and provides greater access to investment opportunities by making these assets easily tradable on the blockchain.
 
 ### 2. Asset and Equity Management
 
@@ -15,15 +15,15 @@ We offer robust solutions for managing share capital and equity. Our platform al
 
 ### 3. Financial Instruments and Investments
 
-Valuit facilitates the creation and management of various financial instruments, including debt, equity, and hybrid securities. Our platform supports the issuance, trading, and management of these instruments, providing investors with diverse investment opportunities. Blockchain integration ensures these financial products are secure, transparent, and easily tradable.
+BlockRidge facilitates the creation and management of various financial instruments, including debt, equity, and hybrid securities. Our platform supports the issuance, trading, and management of these instruments, providing investors with diverse investment opportunities. Blockchain integration ensures these financial products are secure, transparent, and easily tradable.
 
 ### 4. Compliance and Regulatory Advisory
 
-Navigating the complex landscape of regulatory compliance is crucial for any investment activity. Valuit offers expert advisory services to ensure that all tokenization and investment processes meet local and international regulatory standards. Our team of legal and compliance experts work closely with clients to manage compliance risks and maintain adherence to relevant laws and regulations.
+Navigating the complex landscape of regulatory compliance is crucial for any investment activity. BlockRidge offers expert advisory services to ensure that all tokenization and investment processes meet local and international regulatory standards. Our team of legal and compliance experts work closely with clients to manage compliance risks and maintain adherence to relevant laws and regulations.
 
 ### 5. M&A and Investment Banking Services
 
-Valuit's investment banking services include traditional M&A advisory, underwriting, and deal flow management. We work closely with investors to identify, structure, and execute transactions that maximize value. Our blockchain-enabled platform enhances these services by providing unparalleled transparency and efficiency.
+BlockRidge's investment banking services include traditional M&A advisory, underwriting, and deal flow management. We work closely with investors to identify, structure, and execute transactions that maximize value. Our blockchain-enabled platform enhances these services by providing unparalleled transparency and efficiency.
 
 ## Table of Services
 

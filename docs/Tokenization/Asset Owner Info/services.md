@@ -5,7 +5,7 @@ sidebar_position: 1
 # Services
 ### Overview
 
-Valuit is dedicated to offering a wide range of services that address the needs of asset owners by leveraging the latest advancements in blockchain technology.
+BlockRidge is dedicated to offering a wide range of services that address the needs of asset owners by leveraging the latest advancements in blockchain technology.
 
 ### Service Diagram
 
@@ -34,4 +34,4 @@ Valuit is dedicated to offering a wide range of services that address the needs 
 | --- | --- |
 | **User-Friendly Interface** | Our platform is designed to be intuitive and accessible, providing a seamless user experience for all types of investors. |
 | **Advanced Security Protocols** | We use cutting-edge security measures, including encryption and multi-signature wallets, to protect investments and personal information. |
-| **Seamless Integration** | Valuit's solutions integrate effortlessly with existing financial systems, ensuring a smooth transition and enhanced operational efficiency. |
+| **Seamless Integration** | BlockRidge's solutions integrate effortlessly with existing financial systems, ensuring a smooth transition and enhanced operational efficiency. |

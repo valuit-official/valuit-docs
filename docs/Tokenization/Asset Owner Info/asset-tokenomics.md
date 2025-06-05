@@ -6,18 +6,18 @@ sidebar_position: 6
 
 ## Fundamentals
 
-Valuit's tokenomics are structured to provide a robust, transparent, and efficient system for managing tokenized assets. Our tokenomics model is underpinned by several key principles:
+BlockRidge's tokenomics are structured to provide a robust, transparent, and efficient system for managing tokenized assets. Our tokenomics model is underpinned by several key principles:
 
 ### Asset-Backed Tokens
 
-- Each token issued on the Valuit platform is backed by a tangible real-world asset, ensuring intrinsic value and stability.
+- Each token issued on the BlockRidge platform is backed by a tangible real-world asset, ensuring intrinsic value and stability.
 - This includes a variety of asset classes such as real estate, private equity, and revenue-generating businesses.
 - Asset-Backed Tokens
 
 ### Regulatory Compliance
 
 - Tokens are issued in full compliance with relevant financial regulations, ensuring legal security and investor confidence.
-- Valuit adheres to standards set by MiCA and other regulatory frameworks, providing a transparent and compliant environment.
+- BlockRidge adheres to standards set by MiCA and other regulatory frameworks, providing a transparent and compliant environment.
 
 ### Token Utility
 
@@ -35,7 +35,7 @@ Valuit's tokenomics are structured to provide a robust, transparent, and efficie
 ### Market-Based Valuation:
 
 - Tokens are priced based on real-time market data reflecting current demand and supply.
-- Valuit integrates advanced analytics to continuously update asset valuations, ensuring market-aligned pricing.
+- BlockRidge integrates advanced analytics to continuously update asset valuations, ensuring market-aligned pricing.
 
 ### Income-Based Valuation:
 
@@ -57,17 +57,17 @@ Valuit's tokenomics are structured to provide a robust, transparent, and efficie
 ### Market Sentiment:
 
 - Investor confidence and broader market trends play a significant role in token prices.
-- Valuit offers tools for tracking and analyzing market sentiment to help investors make informed decisions.
+- BlockRidge offers tools for tracking and analyzing market sentiment to help investors make informed decisions.
 
 ### Regulatory Environment:
 
 - Compliance with regulatory standards enhances trust and stability.
-- Valuit's proactive approach to regulatory changes ensures ongoing compliance, positively impacting token valuations.
+- BlockRidge's proactive approach to regulatory changes ensures ongoing compliance, positively impacting token valuations.
 
 ### Economic Factors:
 
 - Macroeconomic conditions such as interest rates, inflation, and economic growth affect asset values and, consequently, token prices.
-- Valuit monitors these factors closely to provide timely insights to token holders.
+- BlockRidge monitors these factors closely to provide timely insights to token holders.
 
 ## Impact of Market Volatility
 
@@ -75,57 +75,57 @@ Valuit's tokenomics are structured to provide a robust, transparent, and efficie
 
 1. Economic Factors:
     - Macroeconomic conditions, such as interest rates and inflation, impact the underlying asset values, thus affecting token prices.
-    - Valuit continuously monitors these factors to provide timely updates and insights.
+    - BlockRidge continuously monitors these factors to provide timely updates and insights.
 2. Market Liquidity:
     - High liquidity generally stabilizes prices, whereas low liquidity can lead to significant price fluctuations.
-    - Valuit ensures high liquidity through strategic partnerships and robust secondary market integrations.
+    - BlockRidge ensures high liquidity through strategic partnerships and robust secondary market integrations.
 3. Investor Behaviour:
     - Changes in investor sentiment can cause volatility in token prices.
-    - Valuit's platform provides real-time data and alerts to help investors navigate market sentiment shifts.
+    - BlockRidge's platform provides real-time data and alerts to help investors navigate market sentiment shifts.
 4. Regulatory Changes:
     - Sudden changes in regulations can impact market conditions and token values.
-    - Valuit keeps abreast of regulatory developments to mitigate risks and adapt strategies accordingly.
+    - BlockRidge keeps abreast of regulatory developments to mitigate risks and adapt strategies accordingly.
 
 ### Risk Management Strategies:
 
 1. Diversification:
     - Diversifying investments across different assets mitigates risk.
-    - Valuit offers a variety of tokenized assets, allowing investors to build a diversified portfolio.
+    - BlockRidge offers a variety of tokenized assets, allowing investors to build a diversified portfolio.
 2. Hedging:
     - Financial instruments are used to offset potential losses.
-    - Valuit provides access to hedging tools and strategies, helping investors protect their investments.
+    - BlockRidge provides access to hedging tools and strategies, helping investors protect their investments.
 3. Regular Monitoring:
     - Continuous monitoring of market conditions and asset performance is essential.
-    - Valuit’s platform features automated alerts and detailed reporting to keep investors informed.
+    - BlockRidge’s platform features automated alerts and detailed reporting to keep investors informed.
 4. Stablecoins and Safe-Haven Assets:
     - Utilizing stablecoins and other safe-haven assets to hedge against volatility.
-    - Valuit supports stablecoin transactions and provides access to secure, low-volatility assets.
+    - BlockRidge supports stablecoin transactions and provides access to secure, low-volatility assets.
 
 ## Liquidity and Market Making
 
 ### Ensuring Liquidity:
 
 1. Secondary Market Integration:
-    - Valuit lists asset tokens on multiple secondary markets, including DeFi protocols, DEXs, and CEXs.
+    - BlockRidge lists asset tokens on multiple secondary markets, including DeFi protocols, DEXs, and CEXs.
     - This wide market access enhances liquidity and provides numerous trading opportunities.
 2. Liquidity Pools:
-    - Valuit manages liquidity pools to facilitate smooth trading.
+    - BlockRidge manages liquidity pools to facilitate smooth trading.
     - Incentives are provided for liquidity providers, ensuring consistent market depth and activity.
 3. Buyback Programs:
-    - Valuit may implement buyback programs to support token prices and provide additional liquidity.
+    - BlockRidge may implement buyback programs to support token prices and provide additional liquidity.
     - These programs ensure that there is always a buyer for tokens, enhancing investor confidence.
 
 ### Role of Market Makers:
 
 1. Continuous Pricing:
     - Market makers provide continuous bid and ask prices, ensuring stable and reliable markets.
-    - Valuit collaborates with professional market makers to maintain liquidity and market stability.
+    - BlockRidge collaborates with professional market makers to maintain liquidity and market stability.
 2. Reducing Spread:
     - Market makers help narrow the bid-ask spread, improving trading efficiency and reducing transaction costs.
     - Active market making practices ensure tighter spreads and better trading conditions.
 3. Volume Support:
     - Ensuring sufficient trading volume is crucial to prevent large price swings.
-    - Valuit’s market makers contribute to maintaining balanced and active trading volumes, supporting overall market health.
+    - BlockRidge’s market makers contribute to maintaining balanced and active trading volumes, supporting overall market health.
 4. Order Book Management:
     - Market makers manage order books to ensure there is always sufficient depth for large trades.
     - This reduces the risk of price manipulation and enhances market reliability.

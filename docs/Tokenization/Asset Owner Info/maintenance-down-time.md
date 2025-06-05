@@ -65,11 +65,11 @@ sidebar_position: 9
     - Users are informed about which features will be unavailable.
 2. Post-Maintenance Verification:
     - Users are encouraged to verify their data and transactions after maintenance.
-    - Any discrepancies should be reported to Valuit support immediately.
+    - Any discrepancies should be reported to BlockRidge support immediately.
 
 ## Technical Support
 
-Valuit is dedicated to offering best-in-class support for all clients. We strive to maintain efficient response times for all stakeholders in our ecosystem. If you have any doubts or concerns, please reach out directly to a member of our team or support line listed below.
+BlockRidge is dedicated to offering best-in-class support for all clients. We strive to maintain efficient response times for all stakeholders in our ecosystem. If you have any doubts or concerns, please reach out directly to a member of our team or support line listed below.
 
 ### Contact Details
 

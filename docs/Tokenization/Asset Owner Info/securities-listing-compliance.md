@@ -4,9 +4,9 @@ sidebar_position: 7
 
 # Securtities Listing & Compliance
 
-At Valuit, we pride ourselves on adhering to the highest standards of regulatory compliance and market integrity. Our expertise in navigating the complex regulatory landscape of the European Union (EU) ensures that our clients can confidently issue security tokens and asset-referenced tokens (ARTs). Below, we provide a detailed guide on the process and requirements for listing these tokens in compliance with the Markets in Crypto-Assets Regulation (MiCA) and other relevant EU regulations.
+At BlockRidge, we pride ourselves on adhering to the highest standards of regulatory compliance and market integrity. Our expertise in navigating the complex regulatory landscape of the European Union (EU) ensures that our clients can confidently issue security tokens and asset-referenced tokens (ARTs). Below, we provide a detailed guide on the process and requirements for listing these tokens in compliance with the Markets in Crypto-Assets Regulation (MiCA) and other relevant EU regulations.
 
-*Note: The SPVs will be managed by Valuit Lithuania UAB, which is licensed under MiCA, ensuring authorization and compliance throughout the process.*
+*Note: The SPVs will be managed by BlockRidge Lithuania UAB, which is licensed under MiCA, ensuring authorization and compliance throughout the process.*
 
 ### End-to-End Compliance Process
 
@@ -21,7 +21,7 @@ At Valuit, we pride ourselves on adhering to the highest standards of regulatory
     3. White Paper Preparation
         - **Regulation:** MiCA Regulation.
         - **Requirement:** Prepare a detailed white paper outlining the terms of the token issuance, including information on the underlying asset, rights of token holders, and risk factors.
-        - **Action:** Valuit will draft and publish a compliant white paper to meet regulatory standards.
+        - **Action:** BlockRidge will draft and publish a compliant white paper to meet regulatory standards.
     4. KYC/AML Compliance
         - **Regulation:** Anti-Money Laundering Directive (AMLD5) and MiCA.
         - **Requirement:** Conduct Know Your Customer (KYC) and Anti-Money Laundering (AML) checks on potential investors.
@@ -29,10 +29,10 @@ At Valuit, we pride ourselves on adhering to the highest standards of regulatory
     5. Registration with National Competent Authority (NCA)
         - **Regulation:** Prospectus Regulation (EU) 2017/1129.
         - **Requirement:** If applicable, submit the white paper and relevant documents to the NCA for approval.
-        - **Action:** Valuit will handle the submission and approval process with the NCA.
+        - **Action:** BlockRidge will handle the submission and approval process with the NCA.
     6. Token Issuance and Distribution
         - **Requirement:** Issue and distribute security tokens to investors in accordance with the terms outlined in the white paper.
-        - **Action:** Utilize Valuit’s platform to manage the issuance and distribution process, ensuring a seamless experience for both issuers and investors.
+        - **Action:** Utilize BlockRidge’s platform to manage the issuance and distribution process, ensuring a seamless experience for both issuers and investors.
     7. Issuing Asset-Referenced Tokens (ARTs)
         1. Legal Entity Formation
             - **Requirement:** The issuer must be a legal person or a specific type of undertaking based in the EU.
@@ -63,23 +63,23 @@ At Valuit, we pride ourselves on adhering to the highest standards of regulatory
             - **Action:** Automated enforcement of policies to ensure market integrity through smart contracts.
         8. Token Issuance and Management
             - **Requirement:** Issue ARTs to investors and manage the tokens in accordance with the white paper and MiCA regulations.
-            - **Action:** Use Valuit’s platform to handle the issuance and ongoing management of ARTs.
+            - **Action:** Use BlockRidge’s platform to handle the issuance and ongoing management of ARTs.
 
 
 ### Introduction to SPVs
 
-Special Purpose Vehicles (SPVs) are separate legal entities created to isolate financial risk, protect assets, and facilitate various financial transactions. In the Valuit ecosystem, SPVs are integral to our tokenization process, ensuring that assets are securely and efficiently managed.
+Special Purpose Vehicles (SPVs) are separate legal entities created to isolate financial risk, protect assets, and facilitate various financial transactions. In the BlockRidge ecosystem, SPVs are integral to our tokenization process, ensuring that assets are securely and efficiently managed.
 
 ### Benefits of Using SPVs
 
 1. **Isolating Financial Risk:**
-    - SPVs created through Valuit allow companies to separate certain assets and liabilities from the parent company, reducing financial risk. By creating a distinct legal entity, the parent company can protect its core assets from potential financial losses associated with specific projects or investments.
+    - SPVs created through BlockRidge allow companies to separate certain assets and liabilities from the parent company, reducing financial risk. By creating a distinct legal entity, the parent company can protect its core assets from potential financial losses associated with specific projects or investments.
 2. **Facilitating Structured-Finance Transactions:**
-    - SPVs are used to attract equity and debt investors through securitization. They are commonly utilized in property deals, joint ventures, and other structured-finance transactions, making it easier to raise capital for specific projects within the Valuit ecosystem.
+    - SPVs are used to attract equity and debt investors through securitization. They are commonly utilized in property deals, joint ventures, and other structured-finance transactions, making it easier to raise capital for specific projects within the BlockRidge ecosystem.
 3. **Creating a Bankruptcy-Remote Structure:**
-- As separate legal entities, SPVs are generally “bankruptcy remote,” meaning they can continue operating even if the parent company fails. This structure ensures that investors and creditors have a layer of protection, enhancing their confidence in the stability and resilience of the assets managed by Valuit.
+- As separate legal entities, SPVs are generally “bankruptcy remote,” meaning they can continue operating even if the parent company fails. This structure ensures that investors and creditors have a layer of protection, enhancing their confidence in the stability and resilience of the assets managed by BlockRidge.
 1. **Raising Capital:**
-    - SPVs are effective tools for raising capital for future projects. By ring-fencing funds for specific purposes, SPVs provide transparency and security to investors, enhancing their confidence and willingness to invest in Valuit's tokenized assets.
+    - SPVs are effective tools for raising capital for future projects. By ring-fencing funds for specific purposes, SPVs provide transparency and security to investors, enhancing their confidence and willingness to invest in BlockRidge's tokenized assets.
 
 ### Key European Jurisdictions for SPVs
 
@@ -102,13 +102,13 @@ Special Purpose Vehicles (SPVs) are separate legal entities created to isolate f
 ### Compliance and Reporting Obligations
 
 1. **Regulatory Compliance:**
-    - SPVs established through Valuit comply with local regulations, including filing accounts, undergoing audits, and holding annual general meetings (AGMs) as required by the jurisdiction.
+    - SPVs established through BlockRidge comply with local regulations, including filing accounts, undergoing audits, and holding annual general meetings (AGMs) as required by the jurisdiction.
 2. **Anti-Money Laundering (AML) and Know Your Customer (KYC):**
     - SPVs implement rigorous AML and KYC procedures to prevent financial crimes and ensure transparency.
 3. **Tax and Legal Considerations:**
-    - Each jurisdiction offers specific tax treatments and legal requirements. Valuit ensures that all necessary tax returns are filed and compliance with double-taxation agreements is maintained.
+    - Each jurisdiction offers specific tax treatments and legal requirements. BlockRidge ensures that all necessary tax returns are filed and compliance with double-taxation agreements is maintained.
 
-### Choosing the Right SPV Jurisdiction with Valuit
+### Choosing the Right SPV Jurisdiction with BlockRidge
 
 **Factors to Consider:**
 
@@ -123,9 +123,9 @@ Special Purpose Vehicles (SPVs) are separate legal entities created to isolate f
 5. **Service Provider Ecosystem:**
     - Access to experienced service providers, including legal advisors, auditors, and financial institutions, is essential for the effective management of SPVs.
 
-**Valuit’s Expertise:**
+**BlockRidge’s Expertise:**
 
-- Valuit leverages its extensive network and expertise in key European jurisdictions to provide tailored solutions for establishing and managing SPVs. Our deep understanding of local regulations, tax implications, and market conditions ensures that your SPV is set up efficiently and operates smoothly.
+- BlockRidge leverages its extensive network and expertise in key European jurisdictions to provide tailored solutions for establishing and managing SPVs. Our deep understanding of local regulations, tax implications, and market conditions ensures that your SPV is set up efficiently and operates smoothly.
 
 ### Strategic Benefits for Asset Owners
 
@@ -134,9 +134,9 @@ Special Purpose Vehicles (SPVs) are separate legal entities created to isolate f
 2. **Efficient Capital Raising:**
     - SPVs provide a transparent and structured method for raising capital, attracting investors by offering clarity and security.
 3. **Regulatory Compliance:**
-    - Valuit’s expertise in navigating the complex regulatory landscape of different European jurisdictions ensures that all SPVs are fully compliant, reducing the risk of legal issues and enhancing investor confidence.
+    - BlockRidge’s expertise in navigating the complex regulatory landscape of different European jurisdictions ensures that all SPVs are fully compliant, reducing the risk of legal issues and enhancing investor confidence.
 4. **Operational Efficiency:**
-    - The streamlined process of establishing and managing SPVs with Valuit reduces administrative burdens, allowing asset owners to focus on their core business activities.
+    - The streamlined process of establishing and managing SPVs with BlockRidge reduces administrative burdens, allowing asset owners to focus on their core business activities.
 
 ### Primary Jurisdiction SPV Comparison Matrix
 

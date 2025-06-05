@@ -17,7 +17,7 @@ Tokenization transforms traditional assets into digital tokens on a blockchain, 
     
 3. **Token Creation**
     
-    The digital token creation process takes place on a blockchain. Each token represents a share of ownership or stake in the underlying asset. Depending on the asset's structure and intended use, tokens can represent fractional or full ownership. Valuit uses blockchain standards, like ERC-3643 for security tokens, to ensure regulatory compliance and transparency.
+    The digital token creation process takes place on a blockchain. Each token represents a share of ownership or stake in the underlying asset. Depending on the asset's structure and intended use, tokens can represent fractional or full ownership. BlockRidge uses blockchain standards, like ERC-3643 for security tokens, to ensure regulatory compliance and transparency.
     
 4. **Compliance and Registration**
     
@@ -29,4 +29,4 @@ Tokenization transforms traditional assets into digital tokens on a blockchain, 
     
 6. **Trading and Management**
     
-    After tokenization, tokens can be actively traded on secondary markets, providing liquidity and flexibility that traditional asset ownership may not offer. Token holders can buy, sell, or hold these tokens across decentralized platforms or exchanges. With Valuit’s integrated digital wallet options, investors can seamlessly manage their tokenized assets, monitor performance, and make informed decisions about their investments.
+    After tokenization, tokens can be actively traded on secondary markets, providing liquidity and flexibility that traditional asset ownership may not offer. Token holders can buy, sell, or hold these tokens across decentralized platforms or exchanges. With BlockRidge’s integrated digital wallet options, investors can seamlessly manage their tokenized assets, monitor performance, and make informed decisions about their investments.

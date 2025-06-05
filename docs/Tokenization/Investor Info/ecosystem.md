@@ -5,7 +5,7 @@ sidebar_position: 1
 # Ecosystem
 ## What Makes Us Unique
 
-Valuit stands out in the investment banking landscape by seamlessly integrating blockchain technology into traditional asset management and investment banking services. Our unique approach ensures enhanced liquidity, transparency, and compliance, setting us apart from conventional methods. We are dedicated to leveraging blockchain to create a more efficient, secure, and accessible financial ecosystem for our clients.
+BlockRidge stands out in the investment banking landscape by seamlessly integrating blockchain technology into traditional asset management and investment banking services. Our unique approach ensures enhanced liquidity, transparency, and compliance, setting us apart from conventional methods. We are dedicated to leveraging blockchain to create a more efficient, secure, and accessible financial ecosystem for our clients.
 
 ## Our Mission and Vision
 

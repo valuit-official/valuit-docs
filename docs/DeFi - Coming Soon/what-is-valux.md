@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # What is ValuX?
 
-ValuX is a cutting-edge DeFi platform within the Valuit ecosystem, designed to meet the needs of both individual investors and large institutions. With a focus on tokenized Real-World Assets (RWAs), ValuX enables secure, compliant, and versatile trading, lending, and borrowing capabilities that set it apart from other platforms. Below are the core differentiators that make ValuX the preferred choice for DeFi investors.
+ValuX is a cutting-edge DeFi platform within the BlockRidge ecosystem, designed to meet the needs of both individual investors and large institutions. With a focus on tokenized Real-World Assets (RWAs), ValuX enables secure, compliant, and versatile trading, lending, and borrowing capabilities that set it apart from other platforms. Below are the core differentiators that make ValuX the preferred choice for DeFi investors.
 
 ### 1. Decentralized Trading Environment
 

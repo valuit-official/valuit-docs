@@ -7,7 +7,7 @@ sidebar_position: 10
 ## [Google Cloud](https://cloud.google.com/why-google-cloud/?hl=enhttps://cloud.google.com/why-google-cloud/?hl=en)
 
 - **Description**: A comprehensive suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products.
-- **Purpose**: To host and manage Valuit’s digital assets and ensure scalability and reliability of the platform.
+- **Purpose**: To host and manage BlockRidge’s digital assets and ensure scalability and reliability of the platform.
 
 ## [DocuSign](https://www.docusign.com/)
 
@@ -42,4 +42,4 @@ sidebar_position: 10
 ## [Github](https://github.com/)
 
 - **Description**: A provider of Internet hosting for software development and version control using Git.
-- **Purpose**: To host and manage Valuit’s codebase, collaborate on software development, and version control.
+- **Purpose**: To host and manage BlockRidge’s codebase, collaborate on software development, and version control.

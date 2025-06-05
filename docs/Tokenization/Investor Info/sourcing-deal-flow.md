@@ -5,11 +5,11 @@ sidebar_position: 4
 # Sourcing & Deal Flow
 
 
-This section outlines the comprehensive approach Valuit takes to source, evaluate, and manage investment opportunities. Our rigorous process ensures that all investments meet high standards of quality, compliance, and profitability, aligning with the expectations of sophisticated investors such as family offices, venture capital firms, and private equity funds.
+This section outlines the comprehensive approach BlockRidge takes to source, evaluate, and manage investment opportunities. Our rigorous process ensures that all investments meet high standards of quality, compliance, and profitability, aligning with the expectations of sophisticated investors such as family offices, venture capital firms, and private equity funds.
 
 ## Overview of Asset Sourcing
 
-Valuit employs a strategic and methodical approach to asset sourcing, leveraging our extensive network, market insights, and technological tools. Our goal is to identify and secure high-quality investment opportunities that offer strong returns and align with our investment strategy.
+BlockRidge employs a strategic and methodical approach to asset sourcing, leveraging our extensive network, market insights, and technological tools. Our goal is to identify and secure high-quality investment opportunities that offer strong returns and align with our investment strategy.
 
 - **Market Research and Analysis**
     - Conduct in-depth market research to identify emerging trends, growth sectors, and potential investment opportunities.
@@ -23,7 +23,7 @@ Valuit employs a strategic and methodical approach to asset sourcing, leveraging
 
 ## Investment Parameters
 
-Valuit adheres to stringent investment parameters to ensure that all sourced assets meet our quality, compliance, and profitability standards. These parameters guide our investment decisions and ensure alignment with our overall strategy.
+BlockRidge adheres to stringent investment parameters to ensure that all sourced assets meet our quality, compliance, and profitability standards. These parameters guide our investment decisions and ensure alignment with our overall strategy.
 
 | **Parameter** | **Criteria** |
 | --- | --- |
@@ -36,7 +36,7 @@ Valuit adheres to stringent investment parameters to ensure that all sourced ass
 
 ## Due Diligence Criteria
 
-Valuit conducts rigorous due diligence to evaluate the quality, potential, and compliance of each investment opportunity. Our due diligence process includes financial, legal, operational, and technical assessments.
+BlockRidge conducts rigorous due diligence to evaluate the quality, potential, and compliance of each investment opportunity. Our due diligence process includes financial, legal, operational, and technical assessments.
 
 | **Due Diligence Area** | **Criteria** |
 | --- | --- |
@@ -48,7 +48,7 @@ Valuit conducts rigorous due diligence to evaluate the quality, potential, and c
 
 ## Documentation and Deliverables
 
-Valuit ensures thorough documentation and clear deliverables throughout the investment process. This transparency supports informed decision-making and maintains investor confidence.
+BlockRidge ensures thorough documentation and clear deliverables throughout the investment process. This transparency supports informed decision-making and maintains investor confidence.
 
 | **Documentation** | **Description** |
 | --- | --- |

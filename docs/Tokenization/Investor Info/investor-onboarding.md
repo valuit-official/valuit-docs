@@ -3,11 +3,11 @@ sidebar_position: 5
 ---
 
 # Investor Onboarding
-Valuit's onboarding process is designed to ensure a smooth and efficient integration of liquidity providers onto our platform. We take a comprehensive approach, covering all necessary steps to prepare our partners for successful participation in our ecosystem.
+BlockRidge's onboarding process is designed to ensure a smooth and efficient integration of liquidity providers onto our platform. We take a comprehensive approach, covering all necessary steps to prepare our partners for successful participation in our ecosystem.
 
 ## Onboarding Simplified
 
-Valuit uses an automated onboarding structure for Investors to ensure compliance and efficiency throughout the investment process. In the case of more traditional firms, Valuit offers manual KYC (Know Your Customer) and KYB (Know Your Business) approvals with our compliance team. All information shared during the onboarding process adheres with GDPR regulations to ensure data security and protection.
+BlockRidge uses an automated onboarding structure for Investors to ensure compliance and efficiency throughout the investment process. In the case of more traditional firms, BlockRidge offers manual KYC (Know Your Customer) and KYB (Know Your Business) approvals with our compliance team. All information shared during the onboarding process adheres with GDPR regulations to ensure data security and protection.
 
 ## Onboarding Process Diagram
 ![onboarding-process.png](./images/onboarding-process.png)
@@ -18,10 +18,10 @@ Valuit uses an automated onboarding structure for Investors to ensure compliance
 
 1. **Introduction Meeting**
     - Conduct an introductory meeting to understand the potential liquidity provider's needs, goals, and expectations.
-    - Provide an overview of Valuit's services and platform functionalities.
+    - Provide an overview of BlockRidge's services and platform functionalities.
 2. **Needs Assessment**
     - Perform a detailed assessment of the liquidity provider's investment portfolio, strategies, and requirements.
-    - Identify suitable services and solutions offered by Valuit that align with the provider's objectives.
+    - Identify suitable services and solutions offered by BlockRidge that align with the provider's objectives.
 3. **Customized Proposal**
     - Develop a tailored proposal outlining the services, solutions, and onboarding process specific to the liquidity provider.
     - Present the proposal for review and feedback, ensuring all aspects meet the provider's expectations.
@@ -41,7 +41,7 @@ Valuit uses an automated onboarding structure for Investors to ensure compliance
 ### Account Setup and Platform Access
 
 1. **Platform Access**
-    - Provide the liquidity provider with access to the Valuit platform, including secure login credentials and user accounts.
+    - Provide the liquidity provider with access to the BlockRidge platform, including secure login credentials and user accounts.
     - Ensure the provider is familiar with the platform's interface, functionalities, and features.
 2. **Deal Flow Access**
     - Grant access to the deal flow section of the platform, where the liquidity provider can view and evaluate potential investment opportunities.
