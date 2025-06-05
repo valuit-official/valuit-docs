@@ -11,7 +11,7 @@ const projectName = "valuit-docs";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Valuit',
+  title: 'BlockRidge',
   tagline: 'Redefining Investment Banking with Blockchain',
   favicon: 'img/favicon-150x150.png',
 
@@ -88,9 +88,9 @@ const config = {
       image: 'img/socials/logo_dark.png',
       navbar: {
         logo: {
-          alt: 'valuit Logo',
-          src: 'img/logo_light.svg',
-          srcDark: 'img/logo_dark.png',
+          alt: 'BlockRidge Logo',
+          src: 'img/BlockRidge_light_logo.svg',
+          srcDark: 'img/BlockRidge_dark_logo.svg',
           href: 'https://valuit.com/',
           target: '_self',
         },
@@ -219,34 +219,34 @@ const config = {
 
         <div class="row footer-second-row">
           <div class="col-md-4 address-box">
-            <p class='footer-address-title'>VALUIT NEW YORK OFFICE</p>
+            <p class='footer-address-title'>BlockRidge NEW YORK OFFICE</p>
             <p class='footer-address-subtitle'>100 Quentin Roosevelt Blvd, Suite: 503, Garden City, New York, 11530</p>
           </div>
           <div class="col-md-4 address-box">
-            <p class='footer-address-title'>VALUIT LITHUANIA OFFICE</p>
+            <p class='footer-address-title'>BlockRidge LITHUANIA OFFICE</p>
             <p class='footer-address-subtitle'>Zalgirio g.88-101, Vilnius, Lithuania, 09301</p>
           </div>
           <div class="col-md-4 address-box">
-            <p class='footer-address-title'>VALUIT DUBAI OFFICE</p>
+            <p class='footer-address-title'>BlockRidge DUBAI OFFICE</p>
             <p class='footer-address-subtitle'>22B St - Emirates Towers - Trade Centre 2 - Dubai - United Arab Emirates</p>
           </div>
         </div>
         
         <div class="footer-last-row">
-          <img src="/img/logo_dark.png" class="footer-logo" alt="valuit"/>
-          <span class="order-3">© ${new Date().getFullYear()} Valuit. All Right Reserved</span>
+          <img src="/img/logo_dark.png" class="footer-logo" alt="BlockRidge"/>
+          <span class="order-3">© ${new Date().getFullYear()} BlockRidge. All Right Reserved</span>
           <div class="d-flex gap-3">
-            <a href="https://x.com/Valuit_tr">
-              <img src="/img/socials/x-twitter-brands-solid.svg" class="social-img" alt="valuit"/>
+            <a href="https://x.com/BlockRidge__">
+              <img src="/img/socials/x-twitter-brands-solid.svg" class="social-img" alt="BlockRidge"/>
             </a>
-            <a href="https://www.instagram.com/valuit_tr/">
-              <img src="/img/socials/instagram-brands-solid.svg" class="social-img" alt="valuit"/>
+            <a href="https://www.instagram.com/blockridge_/">
+              <img src="/img/socials/instagram-brands-solid.svg" class="social-img" alt="BlockRidge"/>
             </a>
-            <a href="https://www.instagram.com/valuitofficial?igsh=ZnVwcTN4eGh2dm0x">
-              <img src="/img/socials/instagram-brands-solid.svg" class="social-img" alt="valuit"/>
+            <a href="https://www.instagram.com/blockridge_/">
+              <img src="/img/socials/instagram-brands-solid.svg" class="social-img" alt="BlockRidge"/>
             </a>
-            <a href="https://www.linkedin.com/company/valuit-llc/">
-              <img src="/img/socials/linkedin-brands-solid.svg" class="social-img" alt="valuit"/>
+            <a href="https://www.linkedin.com/company/blockridge/">
+              <img src="/img/socials/linkedin-brands-solid.svg" class="social-img" alt="BlockRidge"/>
             </a>
           </div>
         </div>`,
