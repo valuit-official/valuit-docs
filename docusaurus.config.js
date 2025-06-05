@@ -242,9 +242,6 @@ const config = {
             <a href="https://www.instagram.com/blockridge_/">
               <img src="/img/socials/instagram-brands-solid.svg" class="social-img" alt="BlockRidge"/>
             </a>
-            <a href="https://www.instagram.com/blockridge_/">
-              <img src="/img/socials/instagram-brands-solid.svg" class="social-img" alt="BlockRidge"/>
-            </a>
             <a href="https://www.linkedin.com/company/blockridge/">
               <img src="/img/socials/linkedin-brands-solid.svg" class="social-img" alt="BlockRidge"/>
             </a>
