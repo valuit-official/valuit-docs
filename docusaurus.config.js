@@ -233,7 +233,7 @@ const config = {
         </div>
         
         <div class="footer-last-row">
-          <img src="/img/logo_dark.png" class="footer-logo" alt="BlockRidge"/>
+          <img src="img/BlockRidge_dark_logo.svg" class="footer-logo" alt="BlockRidge"/>
           <span class="order-3">© ${new Date().getFullYear()} BlockRidge. All Right Reserved</span>
           <div class="d-flex gap-3">
             <a href="https://x.com/BlockRidge__">
