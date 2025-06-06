@@ -30,13 +30,6 @@ Welcome to BlockRidge, your gateway to the future of digital asset tokenization 
             "Investor Info": "/Tokenization/Investor Info/ecosystem", 
           }}
     />
-    <Card img={require("@site/static/img/intro/DeFi - Coming Soon.png").default}
-          title="DeFi - Coming Soon"
-          text="Discover decentralized finance with BlockRidge"
-          links={{
-            "What is ValuX?": "/DeFi - Coming Soon/what-is-valux",
-          }}
-    />
 <Card img={require("@site/static/img/intro/$VAL - Coming Soon.png").default}
           title="$VAL - Coming Soon"
           text="Learn about $VAL token"
