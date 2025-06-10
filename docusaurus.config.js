@@ -203,14 +203,11 @@ const config = {
             <p class='first-title' style="margin-bottom: 30px">NEED HELP?</small>
 
             <div style="display: flex; gap: 30px">
-              <div>
-                <p class='second-title mb-0'>CALL US DIRECTLY</small>
-                <p class="second-title-text" style="margin-bottom: 44px">+1 718 713 8417</p>
-              </div>
+
 
               <div>
-                <p class='second-title mb-0'>CALL US DIRECTLY</small>
-                <p class="second-title-text" style="margin-bottom: 44px">info@valuit.com</p>
+                <p class='second-title mb-0'>Email</small>
+                <p class="second-title-text" style="margin-bottom: 44px">info@blockridge.com</p>
               </div>
             </div>
 
