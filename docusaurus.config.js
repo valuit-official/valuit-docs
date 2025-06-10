@@ -91,7 +91,7 @@ const config = {
           alt: 'BlockRidge Logo',
           src: 'img/BlockRidge_light_logo.svg',
           srcDark: 'img/BlockRidge_dark_logo.svg',
-          href: 'https://valuit.com/',
+          href: 'https://www.blockridge.com/',
           target: '_self',
         },
         items: [
@@ -101,7 +101,7 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          { href: 'https://valuit.com/blog/', label: 'Blog', position: 'left' },
+          { href: 'https://www.blockridge.com/blog/', label: 'Blog', position: 'left' },
           {
             type: 'html',
             value: "<div class='divider'></div>"
@@ -117,7 +117,7 @@ const config = {
               },
               {
                 label: 'FAQs',
-                href: 'https://valuit.com/faqs/',
+                href: 'https://www.blockridge.com/faqs/',
               },
             ]
           },
@@ -135,15 +135,15 @@ const config = {
             items: [
               {
                 label: 'Our Story',
-                to: 'https://valuit.com/our-story',
+                to: 'https://www.blockridge.com/our-story/',
               },
               {
                 label: 'Team',
-                to: 'https://valuit.com/team',
+                to: 'https://www.blockridge.com/teams/',
               },
               {
                 label: 'Partners',
-                to: 'https://valuit.com/partners',
+                to: 'https://www.blockridge.com/partners/',
               },
             ],
           },
@@ -152,15 +152,15 @@ const config = {
             items: [
               {
                 label: 'Tokenization',
-                to: 'https://valuit.com/tokenization',
+                to: 'https://www.blockridge.com/tokenization/',
               },
               {
                 label: 'Share Capital Management',
-                to: 'https://valuit.com/share-capital-management/',
+                to: 'https://www.blockridge.com/share-capital-management/',
               },
               {
                 label: 'Consulting and Advisory',
-                to: 'https://valuit.com/consulting-and-advisory/',
+                to: 'https://www.blockridge.com/consulting-and-advisory/',
               },
             ]
           },
@@ -169,19 +169,19 @@ const config = {
             items: [
               {
                 label: 'Real Esate',
-                to: 'https://valuit.com/real-estate',
+                to: 'https://www.blockridge.com/real-estate/',
               },
               {
                 label: 'Funds & Equities',
-                to: 'https://valuit.com/funds-equities',
+                to: 'https://www.blockridge.com/funds-equities/',
               },
               {
                 label: 'Debt Financing',
-                to: 'https://valuit.com/debt-financing',
+                to: 'https://www.blockridge.com/debt-financing/',
               },
               {
                 label: 'Decentralized Finance',
-                to: 'https://valuit.com/decentralized-finance',
+                to: 'https://www.blockridge.com/decentralized-finance/',
               },
             ]
           },
@@ -190,7 +190,7 @@ const config = {
             items: [
               {
                 label: 'Testimonials',
-                href: 'https://valuit.com/testimonials',
+                href: 'https://www.blockridge.com/testimonials/',
               }
             ],
           }
@@ -216,15 +216,15 @@ const config = {
 
         <div class="row footer-second-row">
           <div class="col-md-4 address-box">
-            <p class='footer-address-title'>BlockRidge NEW YORK OFFICE</p>
+            <p class='footer-address-title'>BlockRidge New York Office</p>
             <p class='footer-address-subtitle'>100 Quentin Roosevelt Blvd, Suite: 503, Garden City, New York, 11530</p>
           </div>
           <div class="col-md-4 address-box">
-            <p class='footer-address-title'>BlockRidge LITHUANIA OFFICE</p>
+            <p class='footer-address-title'>BlockRidge Lithuani Office</p>
             <p class='footer-address-subtitle'>Zalgirio g.88-101, Vilnius, Lithuania, 09301</p>
           </div>
           <div class="col-md-4 address-box">
-            <p class='footer-address-title'>BlockRidge DUBAI OFFICE</p>
+            <p class='footer-address-title'>BlockRidge Dubai Office</p>
             <p class='footer-address-subtitle'>22B St - Emirates Towers - Trade Centre 2 - Dubai - United Arab Emirates</p>
           </div>
         </div>
