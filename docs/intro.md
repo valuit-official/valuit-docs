@@ -30,13 +30,6 @@ Welcome to BlockRidge, your gateway to the future of digital asset tokenization 
             "Investor Info": "/Tokenization/Investor Info/ecosystem", 
           }}
     />
-<Card img={require("@site/static/img/intro/$VAL - Coming Soon.png").default}
-          title="$VAL - Coming Soon"
-          text="Learn about $VAL token"
-          links={{
-            "What is $VAL?": "/$VAL - Coming Soon/what-is-$val",
-          }}
-    />
     <Card img={require("@site/static/img/intro/smart contract.png").default}
           title="Smart Contracts"
           text="Explore smart contracts of BlockRidge"
