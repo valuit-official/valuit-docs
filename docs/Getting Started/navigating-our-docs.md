@@ -28,7 +28,7 @@ The documentation is organized into key sections to help you quickly find the re
     - **Asset Owner Info:** Complete guide and manual to the BlockRidge ecosystem from the perspective of the Asset Owner.
     - **Investor Info:** Complete guide and manual to the BlockRidge ecosystem from the perspective of the Investor.
 4. **DeFi (Coming Soon)**
-    - **What is ValuX?:** Brief explanation on the fundamentals, concepts, and vision for ValuX as a product.
+    - **What is BlockRidgeX?:** Brief explanation on the fundamentals, concepts, and vision for BlockRidgeX as a product.
 5. **$VAL (Coming Soon)**
     - **What is $VAL?:** How the token works, what is is, and how it is integrated into the BlockRidge ecosystem.
     - **Key Functions:** Learn about the how $VAL operates and interacts with key features in BlockRidge.
